@@ -4,7 +4,11 @@
 
 Using Ultrasonic technology, this suit serves as a functional prototype to a physical sensation when a person wearing the suit nears objects.
 
-## LISENSING
+## Video Demonstration:
+
+
+
+## LICENSING
 
 AUTHORS: Daniel Gomez, Matthew Fick, Ian Rose.
 
