@@ -1,5 +1,5 @@
 #  'Proximity Saver' - Visual aid device for the blind 
-![title](./images/IMG_20221128_171434.jpg "p-s" width="300" height="600")
+![title](./images/IMG_20221128_171434.jpg width="50" height="60" "p-s" )
 ## Background
 
 Using Ultrasonic technology, this suit serves as a functional prototype to a physical sensation when a person wearing the suit nears objects.
